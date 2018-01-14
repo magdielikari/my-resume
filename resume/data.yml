@@ -1,0 +1,112 @@
+/* #*/ export const PERSON = `
+name:
+  first: Magdiel
+  middle:
+  last: Márquez
+about: Durante mi formación desarrolle la perseverancia y la comprensión profunda; 
+  habilidades indispensables para un buen desarrollador. Aunado, con mi capacidad de 
+  autoaprendizaje y la pasión por lo que hago; nos permitirá transformar nuestra 
+  sociedad al desarrollar tecnología que mejore su bienestar.
+quote: Magdiel Márquez desarrollando el futuro…
+position: Desarrollador de Software 
+
+birth:
+  year: 1990
+  location: New York
+
+experience:
+- company: Premiere Soluciones Integrales - PSI
+  position: Coordinador de Inteligencia de Negocios
+  timeperiod: once meses; 2016 - 2017
+  description: Desarrollo de las Aplicaciones Biométrico, Exposición e Indicadores
+
+- company: SofOS - SME
+  position: Consultor de desarrollo
+  timeperiod: siete meses; 2016 - 2016 
+  description: Modulo de comisiones y difusos de nutrición. Planificación de arquitectura
+
+- company: Sernet
+  position: Coordinador de proyecto
+  timeperiod: once meses; 2015 - 2016
+  description: Desarrollo de negocio y la bases de datos. Planificación de arquitectura
+
+education:
+- degree: Licenciado en Matemáticas
+  timeperiod: March 2012 - December 2013
+  description: Universidad de Carabobo. 2013
+
+#- degree: Bachelor of Science
+#  timeperiod: March 2009 - December 2011
+#  description: Major in Engineering, University B, Los Angeles, USA.
+
+# skill level goes 0 to 100
+skills:
+- name: HTML5
+  level: 99
+  icon: fa fa-html5
+- name: CSS3
+  level: 90
+  icon: fa fa-css3
+
+- name: Node.js
+  level: 93
+  icon: fa fa-terminal
+- name: MongoDB
+  level: 90
+  icon: fa fa-database
+
+- name: Python
+  level: 97
+  icon: fa fa-terminal
+- name: JavaScript
+  level: 95
+  icon: fa fa-terminal
+
+- name: React
+  level: 80
+  icon: fa fa-code
+- name: Angular 2
+  level: 80
+  icon: fa fa-code
+
+- name: Ingles
+  level: 80
+  icon: fa fa-language
+- name: Git
+  level: 80
+  icon: fa fa-git
+#- name: Linux
+#  level: 80
+#  icon: fa fa-linux
+#knowledge: Manejo avanzado del inglés. Comprensión basica del italiano y portugés. 
+
+attitudes:
+- name: Creativo
+  icon: fa fa-lightbulb-o
+- name: Liderazgo
+  icon: fa fa-bullhorn
+- name: Meticuloso
+  icon: fa fa-search
+- name: Positivista
+  icon: fa fa-plus
+
+hobbies:
+- name: League of Legends
+  icon: fa fa-gamepad
+#- name: Leer Novelas
+#  icon: fa fa-book
+- name: Pintura al Oleo
+  icon: fa fa-paint-brush
+- name: Componer Musica
+  icon: fa fa-music
+
+contact:
+  email: magdielmarquezhernandez@email.com
+  phone: 322 766 4033
+  street: Cra. 49a Nro. 128c - 52, Prado Veraniego
+  city: Bogotá, Colombia
+  website: magdielikari.github.io
+  github: magdielikari
+# en, de, fr, pt, ca, cn, it, es, th, pt-br, ru, sv, id, hu, pl, ja, ka, nl, he, zh-tw, lt, ko, el
+lang: es
+`
